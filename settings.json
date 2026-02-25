@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\sathw\\anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\sathw\\anaconda3\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\sathw\\anaconda3\\Lib\\site-packages",
+        "C:\\Users\\sathw\\anaconda3\\Lib"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.languageServer": "Pylance"
+}
